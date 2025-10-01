@@ -1,0 +1,26 @@
+Bank Management C Project – GitHub Setup Guide
+
+Step 1: GitHub Desktop Install karo
+- GitHub Desktop ko official site se download karke install karo.
+
+Step 2: Naya Repository Banao
+- GitHub Desktop kholke "File > New Repository" pe click karo.
+- Name: bank-management-c
+- Description: c program
+- Local path: D:\git hub (ya jahan bhi aap chahte ho)
+- Git ignore: C select karo
+- Initialize with README: Check karo
+- Click: Create repository
+
+Step 3: Nayi File Banao
+- Explorer me repo folder open karo (GitHub Desktop me: Repository > Show in Explorer)
+- Right-click karo, fir New > Text Document select karo
+- File ka naam rakho: kese-banaye-step-by-step.txt
+
+Step 4: GitHub Desktop me Commit karo
+- GitHub Desktop me file dikhegi under "Changes"
+- Commit message likho: Added guide file
+- Click: Commit to main
+
+Step 5: GitHub pe Push karo
+- Top right corner pe "Push origin" button dabao (agar GitHub se connected ho)
